@@ -1,0 +1,13 @@
+{
+  "name": "pipeline-practice",
+  "version": "1.0.0",
+  "description": "A simple Node.js project to practice CI/CD pipelines",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "keywords": ["ci", "cd", "github-actions"],
+  "author": "",
+  "license": "ISC"
+}
